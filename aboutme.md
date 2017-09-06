@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What makes me intresting
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Anirudh Aggarwal. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I suck at online gaming (except Counter-strike -- I'm a champ at that, ping me if you need proof)
+- I find Machine learning intriguing
 
 What else do you need?
 
-### my history
+### Motivation
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+>My intense desire to know, to explore beyond the bounds of rational thought; this is what defines me. Encoded to immerse myself in the unknown, I find it difficult to complacently accept the "what"; I want to hunt for the "whys" and dissect the "hows". In essence, I subsist on discovery.
