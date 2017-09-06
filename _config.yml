@@ -58,10 +58,11 @@ author:
   facebook: animaze97  # eg. daattali
   github: animaze97    # eg. daattali
   twitter: ani_maze97   # eg. daattali
-  google-plus: +anirudhaggarwal2   # eg. +DeanAttali or 109424658772469020925
+  # google-plus: +anirudhaggarwal2   # eg. +DeanAttali or 109424658772469020925
   linkedin: animaze97  # eg. daattali
   youtube: anirudhaggarwal2   # eg. user/daattali or channel/daattali
   telephone: 07827820576   # eg. +14159998888
+  quora: Anirudh-Aggarwal-5
 
 # Select which links to show in the footer
 footer-links-active:
@@ -69,11 +70,12 @@ footer-links-active:
   facebook: true
   email: true
   twitter: true
-  google-plus: true
+  # google-plus: false
   github: true
   linkedin: true
   youtube: false
   telephone: false
+  quora: true
 
 # Select which share links to show in posts
 share-links-active:
