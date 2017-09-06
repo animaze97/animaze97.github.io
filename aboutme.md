@@ -4,12 +4,17 @@ title: About me
 subtitle: What makes me intresting
 ---
 
-My name is Anirudh Aggarwal. I have the following qualities:
+Following are somethings which intrigue me:
 
-- I suck at online gaming (except Counter-strike -- I'm a champ at that, ping me if you need proof)
-- I find Machine learning intriguing
+- Machine learning
+- Online gaming (except Counter-strike -- I'm a champ at that, ping me if you need proof)
 
-What else do you need?
+
+
+What else do you need? 
+
+###Detailed Info
+Can have a look at my resume through the link at top right.
 
 ### Motivation
 
