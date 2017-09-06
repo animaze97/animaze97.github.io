@@ -55,22 +55,13 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Anirudh Aggarwal
   email: "anirudhaggarwal2@gmail.com"
-  facebook: Anirudh Aggarwal  # eg. daattali
-  github: Anirudh Aggarwal    # eg. daattali
-  twitter: Anirudh Aggarwal   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +Anirudh Aggarwal   # eg. +DeanAttali or 109424658772469020925
-  linkedin: Anirudh Aggarwal  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: Anirudh Aggarwal   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
+  facebook: animaze97  # eg. daattali
+  github: animaze97    # eg. daattali
+  twitter: ani_maze97   # eg. daattali
+  google-plus: +anirudhaggarwal2   # eg. +DeanAttali or 109424658772469020925
+  linkedin: animaze97  # eg. daattali
+  youtube: anirudhaggarwal2   # eg. user/daattali or channel/daattali
   telephone: 07827820576   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -78,20 +69,11 @@ footer-links-active:
   facebook: true
   email: true
   twitter: true
-  google-plus: false
+  google-plus: true
   github: true
-  reddit: false
-  linkedin: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
+  linkedin: true
   youtube: false
-  spotify: false
   telephone: false
-  steam: false
-  twitch: false
-  yelp: false
 
 # Select which share links to show in posts
 share-links-active:
