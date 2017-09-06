@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Maze-Log
+title: My BLog
 
 # Short description of your site
 description: Random thoughts!
@@ -74,7 +74,7 @@ footer-links-active:
   github: true
   linkedin: true
   youtube: false
-  telephone: true
+  telephone: false
   quora: true
 
 # Select which share links to show in posts
