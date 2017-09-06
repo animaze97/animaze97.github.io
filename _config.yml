@@ -23,6 +23,7 @@ description: Random thoughts!
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "http://animaze97.github.io" 
   About Me: "aboutme"
   Projects: "projects"
   Resume: "resume"
