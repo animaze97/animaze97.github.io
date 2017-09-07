@@ -10,10 +10,8 @@ Following are somethings which intrigue me:
 - Online gaming (Not that good really , except **Counter-strike** -- I'm a champ at that, ping me if you need proof)
 
 
+### Detailed Info
 
-What else do you need? 
-
-### Detailed Info  
 {: .box-note}
 Can have a look at my resume through the link at top right.
 
