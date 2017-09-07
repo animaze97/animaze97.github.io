@@ -7,13 +7,14 @@ subtitle: What makes me intresting
 Following are somethings which intrigue me:
 
 - Machine learning
-- Online gaming (except Counter-strike -- I'm a champ at that, ping me if you need proof)
+- Online gaming (Not that good really , except **Counter-strike** -- I'm a champ at that, ping me if you need proof)
 
 
 
 What else do you need? 
 
-###Detailed Info
+### Detailed Info  
+{: .box-note}
 Can have a look at my resume through the link at top right.
 
 ### Motivation
