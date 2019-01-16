@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction To Google Colab
-image: /img/1.jpeg
+bigimg: /img/1.jpeg
 tags: [Machine Leaning, Deep Learning, Google Colab, Colaboratory]
 ---
 
