@@ -3,7 +3,7 @@ layout: post
 title: Introduction To Google Colab
 tags: [Machine Leaning, Deep Learning, Google Colab, Colaboratory]
 ---
-![](/img/1.jpeg)
+![](/img/google_colab_1.jpeg)
 
 
 If you are a machine learning newbie, I am sure you might have run into the giant obstacle of — *“Where to train my models?”* Don’t worry, Google has you covered. Google released its internal research tool *“Colaboratory”* which is a tool for machine learning education and research. It’s a **Jupyter notebook environment** that requires no setup to use. In simpler terms, it’s a jupyter notebook with all the collaboration abilities of Google docs, meaning more than one person can work on the same code at the same time. But, the real attraction is the **free computing power** that this tool offers.
@@ -12,7 +12,7 @@ Google colaboratory currently offers the computing services of a **[Tesla K80 GP
 
 To select the GPU for training you need to go to: **Runtime > Change runtime type or Edit > Notebook settings**, from there you can select the python version as well as the Hardware accelerator (GPU) for training.
 
-<div style="text-align:center"><img src ="/img/2.png" /></div>
+<div style="text-align:center"><img src ="/img/google_colab_2.png" /></div>
 
 Its way simpler if you have worked with jupyter notebook before, if not, you can explore around a bit to get the hang of it. Working with Colaboratory is similar to working and training on your own machine, except Google Drive is used as the default storage, and you get to use the services of an efficient GPU for free. You can save files, models parameters, etc. on your drive on regular intervals to avoid risking your data loss due to that 12 hour catch. Another cool thing about Google Colab is that, all major libraries (numpy, matplotlib, etc.) and frameworks (tensorflow, etc.) are pre-installed (just run **“!pip freeze”** to see the list of installed libraries and frameworks), you do not need to go through various installation processes and, instead, can immediately proceed to writing code. If any required library is missing, it can be installed with pip or apt.
 
