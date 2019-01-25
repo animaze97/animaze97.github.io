@@ -3,7 +3,6 @@ layout: post
 title: Introduction to Horner’s Method
 tags: [Mathematics, Polynomials, Programming, Horner]
 ---
-![](/img/horner_method_1.jpeg)
 
 
 In this post I would be discussing **Horner’s method** which made my life a hell lot of easier dealing with scary-looking polynomials. It’s basically a method that can be used for **approximating the roots of a polynomial** fairly quickly. Once you have this in your arsenal, you can factorize higher degree polynomials within seconds and without any effort.
@@ -20,13 +19,13 @@ And from our previous knowledge about polynomials we know that the constant term
 
 **Step 3)** Take any factor of 48 (suppose we take -1) and do the following:
 
-<div style="text-align:center"><img src ="/img/horner_method_2.png" /></div>
+<div style="text-align:center"><img src ="/img/horner_method_1.png" /></div>
 
 As we can see in the above image that the remainder (final entry) is not 0 (it’s 240), so we can say that -1 is not a root of the polynomial.
 
 **Step 4)** Now take the next factor of 48 (suppose we take +1) and repeat the same process.
 
-<div style="text-align:center"><img src ="/img/horner_method_3.png" /></div>
+<div style="text-align:center"><img src ="/img/horner_method_2.png" /></div>
 
 In this case, the remainder (final entry) came out to be 0, so we know that +1 is a factor of the polynomial or (x-1) divides F(x). The remaining entries in the final row (in the above image) are: 2 -18 52 48.
 
